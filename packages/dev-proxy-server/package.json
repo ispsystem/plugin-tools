@@ -1,6 +1,6 @@
 {
   "name": "@ispsystem/dev-proxy-server",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "proxy server for develop frontend plugins",
   "keywords": [
     "proxy",
