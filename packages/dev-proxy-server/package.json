@@ -1,0 +1,34 @@
+{
+  "name": "@ispsystem/dev-proxy-server",
+  "version": "1.0.0",
+  "description": "proxy server for develop frontend plugins",
+  "keywords": [
+    "proxy",
+    "develop"
+  ],
+  "author": "Den Sumbaev <d.sumbaev@ispsystem.com>",
+  "homepage": "https://github.com/ispsystem/plugin-tools#readme",
+  "license": "MIT",
+  "main": "dev-proxy-server.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ispsystem/plugin-tools.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "publish:npm": "npm publish --access=public"
+  },
+  "bugs": {
+    "url": "https://github.com/ispsystem/plugin-tools/issues"
+  },
+  "dependencies": {
+    "http-proxy": "^1.17.0"
+  }
+}
