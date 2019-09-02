@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.2](https://github.com/ispsystem/plugin-tools/compare/@ispsystem/dev-proxy-server@0.1.1...@ispsystem/dev-proxy-server@0.1.2) (2019-09-02)
+
+
+### Bug Fixes
+
+* **dev-proxy-server:** add fs-extra dependency ([2f6844b](https://github.com/ispsystem/plugin-tools/commit/2f6844b))
+
+
+
+
+
 ## [0.1.1](https://github.com/ispsystem/plugin-tools/compare/@ispsystem/dev-proxy-server@0.1.0...@ispsystem/dev-proxy-server@0.1.1) (2019-09-02)
 
 
