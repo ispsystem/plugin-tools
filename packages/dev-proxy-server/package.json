@@ -18,7 +18,7 @@
     "lib"
   ],
   "bin": {
-    "dev-proxy-server": "./bin/dev-proxy-server"
+    "dev-proxy-server": "bin/dev-proxy-server"
   },
   "repository": {
     "type": "git",
