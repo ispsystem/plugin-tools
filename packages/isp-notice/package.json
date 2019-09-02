@@ -1,7 +1,7 @@
 {
   "name": "@ispsystem/isp-notice",
   "version": "0.0.2",
-  "description": "ISP notice wrapper component",
+  "description": "isp-notice wrapper is a web component",
   "keywords": [
     "ISPsystem",
     "isp-notice"
