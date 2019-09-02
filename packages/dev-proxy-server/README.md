@@ -1,5 +1,7 @@
 # `dev-proxy-server`
 
+<a href="https://badge.fury.io/js/%40ispsystem%2Fdev-proxy-server"><img src="https://badge.fury.io/js/%40ispsystem%2Fdev-proxy-server.svg" alt="npm version" height="18"></a>
+
 > Локальный прокси-сервер для разработки плагинов независимо от основного приложения.
 
 ## Использование
