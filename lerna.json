@@ -3,10 +3,11 @@
     "packages/**/*"
   ],
   "command": {
-    "publish": {
-      "ignoreChanges": [
-        "*.md"
-      ],
+    "version": {
+      "allowBranch": "master",
+      "conventionalCommits": true,
+      "exact": true,
+      "gitRemote": "upstream",
       "message": "chore(release): %s"
     }
   },
