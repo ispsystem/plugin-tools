@@ -17,6 +17,9 @@
   "files": [
     "lib"
   ],
+  "bin": {
+    "dev-proxy-server": "./bin/dev-proxy-server"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ispsystem/plugin-tools.git"
