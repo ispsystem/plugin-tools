@@ -1,6 +1,19 @@
 {
   "packages": [
-    "packages/*"
+    "packages/**/*"
+  ],
+  "command": {
+    "publish": {
+      "ignoreChanges": [
+        "*.md"
+      ],
+      "message": "chore(release): %s"
+    }
+  },
+  "ignoreChanges": [
+    "**/__fixtures__/**",
+    "**/__tests__/**",
+    "**/*.md"
   ],
   "version": "independent"
 }
