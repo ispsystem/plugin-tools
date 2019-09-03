@@ -1,0 +1,41 @@
+{
+  "name": "translang",
+  "version": "0.0.0",
+  "description": "tools for simplest use languages in plugins",
+  "keywords": [
+    "translate",
+    "languages"
+  ],
+  "author": "Den Sumbaev <d.sumbaev@ispsystem.com>",
+  "homepage": "https://github.com/ispsystem/plugin-tools#readme",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ispsystem/plugin-tools.git"
+  },
+  "scripts": {
+    "build": "rm -rf .lib && tsc",
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/ispsystem/plugin-tools/issues"
+  },
+  "dependencies": {
+    "@types/node-polyglot": "^0.4.33",
+    "node-polyglot": "^2.3.1"
+  },
+  "devDependencies": {
+    "typescript": "^3.6.2"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
