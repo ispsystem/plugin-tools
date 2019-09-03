@@ -1,5 +1,5 @@
 {
-  "name": "translang",
+  "name": "@ispsystem/translang",
   "version": "0.1.0",
   "description": "tools for simplest use languages in plugins",
   "keywords": [
