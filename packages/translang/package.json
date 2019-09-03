@@ -10,6 +10,7 @@
   "homepage": "https://github.com/ispsystem/plugin-tools#readme",
   "license": "MIT",
   "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -22,6 +23,7 @@
     "url": "git+https://github.com/ispsystem/plugin-tools.git"
   },
   "scripts": {
+    "prepublishOnly": "npm run build",
     "build": "rm -rf .lib && tsc",
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
