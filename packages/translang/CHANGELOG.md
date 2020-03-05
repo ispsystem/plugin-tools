@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.2](https://github.com/ispsystem/plugin-tools/compare/@ispsystem/translang@0.2.1...@ispsystem/translang@0.2.2) (2020-03-05)
+
+**Note:** Version bump only for package @ispsystem/translang
+
+
+
+
+
 ## [0.2.1](https://github.com/ispsystem/plugin-tools/compare/@ispsystem/translang@0.2.0...@ispsystem/translang@0.2.1) (2019-09-03)
 
 **Note:** Version bump only for package @ispsystem/translang
