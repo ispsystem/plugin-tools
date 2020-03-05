@@ -38,8 +38,8 @@
     "publish:npm": "npm publish --access=public"
   },
   "dependencies": {
-    "@ispsystem/notice-tools": "^1.0.0",
-    "@ispsystem/websocket": "^1.0.0",
+    "@ispsystem/notice-tools": "^2.0.4",
+    "@ispsystem/websocket": "^1.1.4",
     "rxjs": "^6.5.2"
   },
   "devDependencies": {
