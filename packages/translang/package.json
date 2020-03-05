@@ -34,9 +34,6 @@
     "@types/node-polyglot": "^0.4.33",
     "node-polyglot": "^2.3.1"
   },
-  "devDependencies": {
-    "typescript": "^3.6.2"
-  },
   "publishConfig": {
     "access": "public"
   }

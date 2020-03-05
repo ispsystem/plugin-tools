@@ -1,6 +1,6 @@
 {
   "name": "@ispsystem/isp-notice",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "isp-notice wrapper is a web component",
   "keywords": [
     "ISPsystem",
@@ -41,9 +41,6 @@
     "@ispsystem/notice-tools": "^2.0.4",
     "@ispsystem/websocket": "^1.1.4",
     "rxjs": "^6.5.2"
-  },
-  "devDependencies": {
-    "@stencil/core": "^1.3.0"
   },
   "publishConfig": {
     "access": "public"

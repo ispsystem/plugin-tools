@@ -2,6 +2,14 @@
   "name": "plugin-tools",
   "private": true,
   "devDependencies": {
-    "lerna": "^3.16.4"
+    "@stencil/core": "^1.3.0",
+    "lerna": "^3.16.4",
+    "typescript": "^3.6.2"
+  },
+  "dependencies": {
+    "@ispsystem/dev-proxy-server": "file:packages/dev-proxy-server",
+    "@ispsystem/isp-notice": "file:packages/isp-notice",
+    "@ispsystem/translang": "file:packages/translang",
+    "isp-notice-loader": "file:packages/isp-notice/loader"
   }
 }
